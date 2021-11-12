@@ -19,7 +19,7 @@
 <a href = "https://www.facebook.com/profile.php?id=100000975680046">
   <image src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" width="50" height="50">
   </a>
-  <a href = "mailto: abc@example.com">
+  <a href = "mailto: luxus0@gmail.com">
   <image src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="50" height="50">
   </a>
 
