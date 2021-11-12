@@ -1,6 +1,6 @@
 ### HELLO I'M ŁUKASZ 😎😎
 
-<img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" width="600" height="300" />
+<img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" width="500" height="300" />
 
 ### TECH STACK 👋
 
