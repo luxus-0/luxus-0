@@ -22,4 +22,10 @@
   <a href = "mailto: luxus0@gmail.com">
   <image src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" width="50" height="50">
   </a>
+    <a href = "https://twitter.com/ukasz78589816">
+  <image src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" width="55" height="55">
+  </a>
+ 
+    
+    
 
