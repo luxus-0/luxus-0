@@ -10,6 +10,5 @@ HELLO I'M ŁUKASZ 😎😎
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=radical)
-)
 
 
