@@ -26,7 +26,7 @@
   <image src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" width="55" height="55">
   </a>
   <a href = "https://www.instagram.com/epakanowysacz0/">
-  <image src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-instagram-social-media-icon-design-template-vector-png-image_3654775.jpg" width="55" height="55">
+  <image src="https://www.basilur.pl/wp-content/uploads/2017/07/instagram-1581266_960_720.jpg" width="55" height="55">
   </a>
     
     
