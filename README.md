@@ -29,6 +29,10 @@
   <image src="https://www.basilur.pl/wp-content/uploads/2017/07/instagram-1581266_960_720.jpg" width="55" height="55">
   </a>
     
-    ### Guest 👋
+
+
+<strong>Guest</strong> 👋
+
+
 ![Visitor Count](https://profile-counter.glitch.me/luxus-0/count.svg)
 
