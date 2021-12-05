@@ -12,10 +12,10 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me 👋
+
 <a href = "https://www.facebook.com/profile.php?id=100000975680046">
   <image src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" width="50" height="50">
   </a>
@@ -29,9 +29,8 @@
   <image src="https://www.basilur.pl/wp-content/uploads/2017/07/instagram-1581266_960_720.jpg" width="55" height="55">
   </a>
     
-
-
-<strong>Guest</strong> 👋
+    
+### Guest 👋
 
 ![Visitor Count](https://profile-counter.glitch.me/luxus-0/count.svg)
 
