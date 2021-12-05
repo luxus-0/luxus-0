@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me 👋
 <a href = "https://www.facebook.com/profile.php?id=100000975680046">
@@ -32,7 +32,6 @@
 
 
 <strong>Guest</strong> 👋
-
 
 ![Visitor Count](https://profile-counter.glitch.me/luxus-0/count.svg)
 
