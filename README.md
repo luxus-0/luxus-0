@@ -1,8 +1,5 @@
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" style="vertical-align: top" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-
-
-
 ### HELLO I'M ŁUKASZ NOWOGÓRSKI😎😎🌞🌞
 
 <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" width="500" height="300" />
@@ -28,8 +25,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&exclude_repo=Hotel)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### CONTACT 👋
-
+<summary><b>✨&nbsp;&nbsp;###CONTACT&nbsp;ME🔗</b></summary>
+  <br/>
+<p align="left">
 <a href = "https://www.facebook.com/profile.php?id=100000975680046">
   <image src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" width="50" height="50">
   </a>
