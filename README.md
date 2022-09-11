@@ -26,7 +26,6 @@
 
 <details>
   <summary>✨&nbsp;&nbsp;<b>LEARNING</b></summary>
-  
 ![JUnit5](https://img.shields.io/badge/JUnit5-%232C5263.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%232C5263.svg?style=for-the-badge&logo=docker&logoColor=blue)
   ![Git](https://img.shields.io/badge/git-%232C5263.svg?style=for-the-badge&logo=git&logoColor=white)
