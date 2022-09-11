@@ -58,5 +58,3 @@
 ### VISITORS
     
 ![Visitors](https://komarev.com/ghpvc/?username=luxus-0&color=green&style=plastic)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6b22fad8-15cb-42b3-a274-2670d4c41a3b/9362f4d3-6e2f-468b-9f62-0301ad67a162.png" /></a>
