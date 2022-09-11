@@ -34,5 +34,5 @@
     
 ### GUEST 👋
     
-![Visitor Count](https://profile-counter.glitch.me/luxus-0/count.svg)
+![Visitor Count](https://i.pinimg.com/236x/d6/a8/c2/d6a8c286681d70ed7d2592875b70c782.jpg)
 
