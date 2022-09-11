@@ -25,8 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&exclude_repo=Hotel)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<summary><b>✨&nbsp;&nbsp;###CONTACT&nbsp;ME🔗</b></summary>
-  <br/>
+<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
 <p align="left">
 <a href = "https://www.facebook.com/profile.php?id=100000975680046">
   <image src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-facebook-icon-png-image_3566127.png" width="50" height="50">
