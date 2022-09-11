@@ -1,9 +1,8 @@
 <a href="https://www.buymeacoffee.com/lukasz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" style="vertical-align: top" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<details>
-  <summary>✨&nbsp;&nbsp;<b>TECH STACK</b></summary>
 ### HELLO I'M ŁUKASZ NOWOGÓRSKI😎🌞
-  </details>
+  
+  I live in Poland.I'm passionate in programming language esspecially in Java with framework Spring and Hibernate and in future I want to find a job.
 
 
 <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" align = "right" width="500" height="300" />
