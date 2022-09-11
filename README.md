@@ -2,7 +2,7 @@
 
 ### HELLO I'M ŁUKASZ NOWOGÓRSKI😎🌞
   
-  I live in Poland.I'm passionate in programming language esspecially in Java with framework Spring and Hibernate and in future I want to find a job.
+  I live in Poland. I'm passionate in programming language esspecially in Java with framework Spring and Hibernate and in future I want to find a job.
 
 
 <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" align = "right" width="500" height="300" />
