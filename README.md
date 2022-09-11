@@ -2,12 +2,14 @@
 
 ### HELLO I'M ŁUKASZ NOWOGÓRSKI😎😎🌞🌞
 
+
 <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" align = "right" width="500" height="300" />
 
 
 <details>
   <summary>✨&nbsp;&nbsp;<b>TECH STACK</b></summary>
 
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hiberante-Green?style=for-the-badge&logo=hibernate)
