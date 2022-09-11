@@ -32,7 +32,6 @@
   </a>
     
     
-### GUEST 👋
+### VISITORS
     
-![Visitor Count](https://i.pinimg.com/236x/d6/a8/c2/d6a8c286681d70ed7d2592875b70c782.jpg)
-
+![Visitors](https://komarev.com/ghpvc/?username=luxus-0&color=green&style=plastic)
