@@ -32,7 +32,7 @@
   ![Git](https://img.shields.io/badge/git-%232C5263.svg?style=for-the-badge&logo=git&logoColor=white)
 </details>
 
-[![](https://github-readme-stats.vercel.app/api?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalqa&exclude_repo=LukaszLottoExcelent
 )](https://github.com/anuraghazra/github-readme-stats)
