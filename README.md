@@ -34,7 +34,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luxus-0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&exclude_repo=Hotel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&exclude_repo=LukaszLottoExcelent
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
