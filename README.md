@@ -41,7 +41,7 @@
 <details>
   <summary>LANGUAGE STATISTICS</summary>
   <p align="center">
-    <image src="https://wakatime.com/@6b22fad8-15cb-42b3-a274-2670d4c41a3b">
+    <image src="https://wakatime.com/share/waka_a309dea6-0054-482e-82f5-239ade8ee18c">
   </p>
   </details>
 
