@@ -38,6 +38,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalqa&exclude_repo=LukaszLottoExcelent
 )](https://github.com/anuraghazra/github-readme-stats)
 
+<details>
+  <summary>LANGUAGE STATISTICS</summary>
+  <p align="center">
+    <image src="http://wakatime.com/share/waka_a309dea6-0054-482e-82f5-239ade8ee18c" height="400">
+  </p>
+  </details>
+
 
 <details>
   <summary><b>✨&nbsp;&nbsp;CONTACT&nbsp;ME</b></summary>
