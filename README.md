@@ -2,7 +2,7 @@
 
 ### HELLO I'M ŁUKASZ NOWOGÓRSKI😎🌞
   
-  I'm passionate in programming language esspecially in Java. I like read blogs, watching video and learning course about IT. In future I want to find a job, because I like it. <div id="header" align="left"><img src= "https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" align = "left" width="50" height="50" /></div>
+  I'm passionate in programming language esspecially in Java. I like read blogs, watching video and learning course about IT. In future I want to find a job, because I like spend on time in code :D <div id="header" align="left"><img src= "https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" align = "left" width="50" height="50" /></div>
 
 
 <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" align = "right" width="500" height="300" />
