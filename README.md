@@ -1,6 +1,4 @@
-<a href="https://www.buymeacoffee.com/lukasz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" align="center" style="vertical-align: top" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-### HELLO I'M ŁUKASZ NOWOGÓRSKI😎🌞
+## HELLO I'M ŁUKASZ NOWOGÓRSKI😎🌞
   
   I'm passionate in programming language esspecially in Java. I like read blogs, watching video and learning course about IT. In future I want to find a job, because I like spend on time in code :D <div id="header" align="left"><img src= "https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" align = "left" width="50" height="50" /></div>
 
