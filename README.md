@@ -57,14 +57,6 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### ⚡ STREAK STATS
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=tokyonight" alt="GitHub Streak">
-</p>
-
----
-
 ###  CONNECT WITH ME
 
 <p align="center">
