@@ -43,19 +43,12 @@ I'm a passionate programmer with a strong interest in programming languages, esp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&show_icons=true&theme=tokyonight&exclude_repo=Lotto_Game" alt="Top Languages">
 </p>
 
----
 
 ### ️ MY PROJECTS
-
-<p align="center">
-  Here are some of the projects I've been working on:
-
- ### ️ MY PROJECTS
  
 * [**Hotel Reservation:**](https://github.com/luxus-0/hotel-reservation)
 </p>
 
----
 
 ###  CONNECT WITH ME
 
@@ -74,7 +67,6 @@ I'm a passionate programmer with a strong interest in programming languages, esp
   </a>
 </p>
 
----
 
 ###  VISITORS COUNT
 
