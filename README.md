@@ -1,4 +1,4 @@
-## 👋 HELLO I'M ŁUKASZ NOWOGÓRSKI 😎🌞
+##  HELLO I'M ŁUKASZ NOWOGÓRSKI 
 
 <div align="left">
   <img src="https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" align="left" width="50" height="50" />
@@ -7,7 +7,7 @@
 I'm a passionate programmer with a strong interest in programming languages, especially Java. I love diving into the world of IT through blogs, videos, and courses. My goal is to leverage my coding enthusiasm in a fulfilling career.
 
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/74199705/141540538-754bd5a0-0fa6-4bd6-8f67-f680a09a89c2.gif" width="300" height="200" />
+  <img src="https://i.pinimg.com/originals/8c/99/32/8c9932467d165651c6a2b0287b3a4a28.gif" width="300" height="200" />
 </div>
 
 <br clear="both"> ---
@@ -26,7 +26,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### 🚀 CURRENTLY LEARNING
+###  CURRENTLY LEARNING
 
 <p align="center">
   <img src="https://img.shields.io/badge/JUnit5-%232C5263.svg?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5">
@@ -36,7 +36,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### 📊 GITHUB STATISTICS
+###  GITHUB STATISTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=tokyonight" alt="GitHub Stats">
@@ -45,7 +45,13 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### 📈 LANGUAGE STATISTICS (WakaTime)
+###  LANGUAGE STATISTICS (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com/@luxus0" target="_blank">
+    <img src="https://wakatime.com/badge/user/a309dea6-0054-482e-82f5-239ade8ee18c.svg" alt="WakaTime Stats">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://wakatime.com/share/waka_a309dea6-0054-482e-82f5-239ade8ee18c" alt="Language Statistics">
@@ -53,7 +59,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### 📬 CONNECT WITH ME
+###  CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100000975680046" target="_blank">
