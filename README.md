@@ -45,16 +45,22 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-###  LANGUAGE STATISTICS (WakaTime)
+### ️ MY PROJECTS
 
 <p align="center">
-  <a href="https://wakatime.com/@luxus0" target="_blank">
-    <img src="https://wakatime.com/badge/user/a309dea6-0054-482e-82f5-239ade8ee18c.svg" alt="WakaTime Stats">
-  </a>
+  Here are some of the projects I've been working on:
+
+  * **Lotto Game:** A simple console application that simulates a lottery game. [Link to Repository](https://github.com/luxus-0/Lotto_Game)
+  * **[Dodaj tutaj nazwę innego projektu]:** [Krótki opis projektu]. [Link do Repository]
+  * **[Dodaj tutaj nazwę innego projektu]:** [Krótki opis projektu]. [Link do Repository]
 </p>
 
+---
+
+### ⚡ STREAK STATS
+
 <p align="center">
-  <img src="https://wakatime.com/share/waka_a309dea6-0054-482e-82f5-239ade8ee18c" alt="Language Statistics">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 ---
@@ -78,7 +84,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-### Visitors Count
+###  VISITORS COUNT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luxus-0&color=green&style=for-the-badge" alt="Visitors Count">
