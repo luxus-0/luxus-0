@@ -50,9 +50,9 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 <p align="center">
   Here are some of the projects I've been working on:
 
-  * **Lotto Game:** A simple console application that simulates a lottery game. [Link to Repository](https://github.com/luxus-0/Lotto_Game)
-  * **[Dodaj tutaj nazwę innego projektu]:** [Krótki opis projektu]. [Link do Repository]
-  * **[Dodaj tutaj nazwę innego projektu]:** [Krótki opis projektu]. [Link do Repository]
+ ### ️ MY PROJECTS
+ 
+* **Hotel Reservation:** [Link to Repository](https://github.com/luxus-0/hotel-reservation)
 </p>
 
 ---
