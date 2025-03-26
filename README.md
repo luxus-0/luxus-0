@@ -52,7 +52,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
  ### ️ MY PROJECTS
  
-* **Hotel Reservation:** [Link to Repository](https://github.com/luxus-0/hotel-reservation)
+* [**Hotel Reservation:**](https://github.com/luxus-0/hotel-reservation)
 </p>
 
 ---
