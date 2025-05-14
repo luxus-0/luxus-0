@@ -46,7 +46,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ### ️ MY PROJECTS
  
-* [**Hotel Reservation:**](https://github.com/luxus-0/hotel-reservation)
+* [**LOTTO GAME:**](https://github.com/luxus-0/Lotto_Game_Backend)
 </p>
 
 
