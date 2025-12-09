@@ -42,13 +42,10 @@ Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastos
 
 ---
 
-## 📊 Moje Statystyki GitHub
-
-Liczby mówią same za siebie! Sprawdź moje zaangażowanie i preferencje językowe:
+### 🗓️ Codzienne Zaangażowanie (Streak)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark&hide_title=true&hide_rank=true&count_private=true&line_height=20" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_repo=Lotto_Game" alt="Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak">
 </p>
 
 ---
