@@ -47,7 +47,7 @@ Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastos
 Poniższy wykres pokazuje moją ciągłość w commitach na GitHubie oraz statystyki aktywności:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=luxus-0" alt="GitHub Stats Test Minimal">
 </p>
 
 ## 🚀 Wybrane Projekty
