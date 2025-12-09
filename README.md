@@ -1,4 +1,4 @@
-# 👋 Cześć, jestem Łukasz Nowogórski!
+# 🔥 WITAJ! JESTEM ŁUKASZ NOWOGÓRSKI, ENTWUZJASTA JAVA & SPRING 🚀
 
 <div align="center">
   <a href="https://github.com/luxus-0">
@@ -6,11 +6,25 @@
   </a>
 </div>
 
-Jestem pasjonatem programowania z głębokim zamiłowaniem do języka Java i ekosystemu Spring. Aktywnie zgłębam świat IT, czerpiąc wiedzę z blogów, kursów i praktycznych projektów. Moim celem jest połączenie mojej pasji z satysfakcjonującą karierą, tworząc innowacyjne i wydajne rozwiązania.
+<div align="center">
+  <img src="https://media.giphy.com/media/QkR45gIfrT3z5Vw49q/giphy.gif" width="600" alt="Java Spring Gif"> 
+</div>
+
+**Cześć!** Jestem pasjonatem, który wierzy, że kod to sztuka. Z głębokim zamiłowaniem do języka Java i ekosystemu Spring, specjalizuję się w tworzeniu solidnych, wysoko wydajnych aplikacji back-endowych. Aktywnie poszerzam swoją wiedzę, a moim celem jest wniesienie wartości do świata IT poprzez innowacyjne i skalowalne rozwiązania. 
 
 ---
 
-## 🔥 Moje Kluczowe Kompetencje i Technologie
+## 💡 MOJA FILOZOFIA KODOWANIA
+
+> "Elegancja kodu tkwi w jego prostocie i testowalności."
+
+* **Clean Code & Design Patterns:** Stawiam na czytelność i wzorce projektowe (np. MVC, Factory, Builder).
+* **Test-Driven Development (TDD):** Tworzę aplikacje, które są w pełni pokryte testami jednostkowymi i integracyjnymi.
+* **DevOps Mindset:** Rozumiem znaczenie konteneryzacji (Docker) i ciągłej integracji.
+
+---
+
+## 🔥 MÓJ PEŁNY STOS TECHNOLOGICZNY (Stack)
 
 W mojej codziennej pracy i nauce skupiam się na nowoczesnych technologiach, które pozwalają mi tworzyć solidne i skalowalne aplikacje.
 
@@ -29,30 +43,38 @@ W mojej codziennej pracy i nauce skupiam się na nowoczesnych technologiach, kt�
 
 ---
 
-## 💡 Czego Obecnie się Uczę / W czym się doskonalę?
+## 📊 STATYSTYKI Z POLA WALKI 💻
 
-Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastosowaniach i najlepszych praktykach:
+Liczby mówią same za siebie! Sprawdź moje zaangażowanie i preferencje językowe:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/REST_API-005C9C?style=for-the-badge&logo=rest&logoColor=white" alt="REST API Design">
-  <img src="https://img.shields.io/badge/Cloud_Native-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Cloud Native Principles">
-  <img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD Concepts">
+    <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark&line_height=20&hide_title=true&hide_rank=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_repo=Lotto_Game" alt="Top Languages">
+</p>
+
+### 🗓️ Codzienna Dyscyplina: Paska Commitów (Streak)
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak Stats">
 </p>
 
 ---
 
-## 🚀 Wybrane Projekty
+## 🚀 WIZYTÓWKA PROJEKTOWA: University Backend System
 
-Oto niektóre z moich kluczowych projektów, które pokazują moje umiejętności i pasję. Kliknij na repozytorium, aby dowiedzieć się więcej!
+Moim flagowym projektem jest system do zarządzania uniwersytetem, który demonstruje kompleksowe podejście do budowania skalowalnych aplikacji back-endowych.
 
-| Nazwa Projektu (Repozytorium) | Opis | Technologie | Status |
-| :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
-| [University](https://github.com/luxus-0/university) | **System zarządzania uniwersytetem**: Kompleksowy backend do obsługi studentów, wykładowców i wykładów z walidacją, bezpieczeństwem i API REST. | `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL`, `MapStruct`, `Lombok`, `JWT` | Aktywny |
+| Aspekt | Wdrożone Rozwiązania | Wartość |
+| :--- | :--- | :--- |
+| **Repozytorium** | [university](https://github.com/luxus-0/university) | Główny, aktywny projekt back-endowy. |
+| **Baza Danych** | `PostgreSQL`, `JPA/Hibernate` | Trwała i transakcyjna obsługa danych relacyjnych. |
+| **Bezpieczeństwo** | `Spring Security`, `JWT` | Zabezpieczenie endpointów i uwierzytelnianie bezstanowe. |
+| **Architektura** | `API RESTful`, Walidacja DTO | Czysty kod, solidna warstwa serwisu i obsługa błędów. |
+| **Mapowanie Danych** | `MapStruct` | Bezpieczne i wydajne mapowanie między DTO a Encją, rozwiązując problem N+1. |
 
 ---
 
-## 🤝 Skontaktuj się ze mną
+## 🤝 SKONTAKTUJ SIĘ ZE MNĄ
 
 Jestem otwarty na nowe wyzwania, współpracę i dyskusje na temat technologii. Zapraszam do kontaktu!
 
@@ -69,7 +91,8 @@ Jestem otwarty na nowe wyzwania, współpracę i dyskusje na temat technologii. 
   <a href="https://www.instagram.com/epakanowysacz0/" target="_blank">
     <img src="https://img.icons8.com/fluency/50/000000/instagram-new.png" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/lukaszn" target="_blank"> <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/lukaszn" target="_blank"> 
+    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn">
   </a>
 </p>
 
