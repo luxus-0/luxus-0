@@ -1,5 +1,5 @@
-  #    🔥 WITAJ! JESTEM ŁUKASZ NOWOGÓRSKI
-  #    🔥UCZĘ SIĘ JAVA & SPRING 🚀
+  #      🔥 WITAJ! JESTEM ŁUKASZ NOWOGÓRSKI
+  #      🔥UCZĘ SIĘ JAVA & SPRING 🚀
 
 <div align="center">
   <a href="https://github.com/luxus-0">
