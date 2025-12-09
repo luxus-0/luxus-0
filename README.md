@@ -36,14 +36,6 @@ I'm a passionate programmer with a strong interest in programming languages, esp
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
----
-
-### GITHUB STATISTICS
-
-<p align="center">
-  [<img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=tokyonight" alt="GitHub Stats">](aaa)
-</p>
-
 ### CONNECT WITH ME
 
 <p align="center">
