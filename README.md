@@ -68,10 +68,9 @@ Jestem otwarty na nowe wyzwania, współpracę i dyskusje na temat technologii. 
   </a>
   <a href="mailto:nowogorski.lukasz0@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lukaszn" target="_blank"> 
-    <img src="https://www.linkedin.com/in/%C5%82ukasz-nowog%C3%B3rski-b7033a259/" alt="LinkedIn" alt="Linkedin">
-  </a>
+  <a href="https://www.linkedin.com/in/%C5%82ukasz-nowog%C3%B3rski-b7033a259/" target="_blank"> 
+  <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn">
+</a>
 </p>
 
 <p align="center">
