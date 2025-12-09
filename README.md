@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QkR45gIfrT3z5Vw49q/giphy.gif" width="600" alt="Java Spring Gif"> 
+  <img src="D:\Java\Java.png" width="600" alt="Java"> 
 </div>
 
 **Cześć!** Jestem pasjonatem, który wierzy, że kod to sztuka. Z głębokim zamiłowaniem do języka Java i ekosystemu Spring, specjalizuję się w tworzeniu solidnych, wysoko wydajnych aplikacji back-endowych. Aktywnie poszerzam swoją wiedzę, a moim celem jest wniesienie wartości do świata IT poprzez innowacyjne i skalowalne rozwiązania. 
