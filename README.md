@@ -6,9 +6,9 @@
   </a>
 </div>
 
-<div align="center">
+[<div align="center">
   <img src="D:\Java\Java.png" width="600" alt="Java"> 
-</div>
+</div>](https://res.cloudinary.com/your-cloud-name/image/upload/v1/java-gif.gif)
 
 **Cześć!** Jestem pasjonatem, który wierzy, że kod to sztuka. Z głębokim zamiłowaniem do języka Java i ekosystemu Spring, specjalizuję się w tworzeniu solidnych, wysoko wydajnych aplikacji back-endowych. Aktywnie poszerzam swoją wiedzę, a moim celem jest wniesienie wartości do świata IT poprzez innowacyjne i skalowalne rozwiązania. 
 
