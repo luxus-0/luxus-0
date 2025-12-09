@@ -1,4 +1,4 @@
-##  HELLO I'M ŁUKASZ NOWOGÓRSKI 
+## HELLO I'M ŁUKASZ NOWOGÓRSKI 
 
 <div align="left">
   <img src="https://media.giphy.com/media/LY8yDak6Tngb6FfPrt/giphy.gif" align="left" width="50" height="50" />
@@ -10,7 +10,9 @@ I'm a passionate programmer with a strong interest in programming languages, esp
   <img src="https://i.pinimg.com/originals/8c/99/32/8c9932467d165651c6a2b0287b3a4a28.gif" width="300" height="200" />
 </div>
 
-<br clear="both"> ---
+<br clear="both">
+
+---
 
 ### ✨ TECHNOLOGY STACK
 
@@ -26,7 +28,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-###  CURRENTLY LEARNING
+### CURRENTLY LEARNING
 
 <p align="center">
   <img src="https://img.shields.io/badge/JUnit5-%232C5263.svg?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit5">
@@ -36,21 +38,14 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 ---
 
-###  GITHUB STATISTICS
+### GITHUB STATISTICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&show_icons=true&theme=tokyonight&exclude_repo=Lotto_Game" alt="Top Languages">
 </p>
 
-
-### ️ MY PROJECTS
- 
-* [**LOTTO GAME:**](https://github.com/luxus-0/Lotto_Game_Backend)
-</p>
-
-
-###  CONNECT WITH ME
+### CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100000975680046" target="_blank">
@@ -67,8 +62,7 @@ I'm a passionate programmer with a strong interest in programming languages, esp
   </a>
 </p>
 
-
-###  VISITORS COUNT
+### VISITORS COUNT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luxus-0&color=green&style=for-the-badge" alt="Visitors Count">
