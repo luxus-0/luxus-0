@@ -42,7 +42,6 @@ I'm a passionate programmer with a strong interest in programming languages, esp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&show_icons=true&theme=tokyonight alt="Top Languages">
 </p>
 
 ### CONNECT WITH ME
