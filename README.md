@@ -54,7 +54,7 @@ Oto niektóre z moich kluczowych projektów, które pokazują moje umiejętnośc
 
 | Nazwa Projektu (Repozytorium) | Opis | Technologie | Status |
 | :---------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
-| [university-backend](https://github.com/luxus-0/university-backend) | **System zarządzania uniwersytetem**: Kompleksowy backend do obsługi studentów, wykładowców i wykładów z walidacją, bezpieczeństwem i API REST. | `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL`, `MapStruct`, `Lombok`, `JWT` | Aktywny |
+| [University](https://github.com/luxus-0/university) | **System zarządzania uniwersytetem**: Kompleksowy backend do obsługi studentów, wykładowców i wykładów z walidacją, bezpieczeństwem i API REST. | `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL`, `MapStruct`, `Lombok`, `JWT` | Aktywny |
 
 ---
 
