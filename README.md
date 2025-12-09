@@ -42,12 +42,12 @@ Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastos
 
 ---
 
-## 📊 Aktywność Commity i Paska (GitHub Streak)
+## 📊 Aktywność Commity i Paska
 
 Poniższy wykres pokazuje moją ciągłość w commitach na GitHubie oraz statystyki aktywności:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark">
 </p>
 
 ## 🚀 Wybrane Projekty
