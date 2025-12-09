@@ -45,18 +45,7 @@ W mojej codziennej pracy i nauce skupiam się na nowoczesnych technologiach, kt�
 
 ## 📊 STATYSTYKI Z POLA WALKI 💻
 
-Liczby mówią same za siebie! Sprawdź moje zaangażowanie i preferencje językowe:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark&line_height=20&hide_title=true&hide_rank=true" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxus-0&layout=compact&langs_count=6&theme=dark&hide_title=true&exclude_repo=Lotto_Game" alt="Top Languages">
-</p>
-
-### 🗓️ Codzienna Dyscyplina: Paska Commitów (Streak)
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak Stats">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark&t=20251209" alt="GitHub Stats">
 
 ---
 
