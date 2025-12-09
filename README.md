@@ -42,14 +42,6 @@ Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastos
 
 ---
 
-## 📊 Aktywność Commity i Paska
-
-Poniższy wykres pokazuje moją ciągłość w commitach na GitHubie oraz statystyki aktywności:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luxus-0" alt="GitHub Stats Test Minimal">
-</p>
-
 ## 🚀 Wybrane Projekty
 
 Oto niektóre z moich kluczowych projektów, które pokazują moje umiejętności i pasję. Kliknij na repozytorium, aby dowiedzieć się więcej!
