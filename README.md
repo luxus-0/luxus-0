@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github.com/luxus-0/luxus-0/Java.png" width="600" alt="Java"> 
-</div>(https://res.cloudinary.com/your-cloud-name/image/upload/v1/java-gif.gif)
+</div>
 
 **Cześć!** Jestem pasjonatem, który wierzy, że kod to sztuka. Z głębokim zamiłowaniem do języka Java i ekosystemu Spring, specjalizuję się w tworzeniu solidnych, wysoko wydajnych aplikacji back-endowych. Aktywnie poszerzam swoją wiedzę, a moim celem jest wniesienie wartości do świata IT poprzez innowacyjne i skalowalne rozwiązania. 
 
