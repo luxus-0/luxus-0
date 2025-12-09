@@ -42,11 +42,13 @@ Nieustannie poszerzam swoje horyzonty, koncentrując się na praktycznych zastos
 
 ---
 
-### 🗓️ Codzienne Zaangażowanie (Streak)
+## 📊 Aktywność Commity i Paska (GitHub Streak)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true&card_width=450" alt="GitHub Streak">
+Poniższy wykres pokazuje moją ciągłość w commitach na GitHubie oraz statystyki aktywności:
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxus-0&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
 
 ## 🚀 Wybrane Projekty
 
