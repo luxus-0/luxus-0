@@ -43,12 +43,6 @@ W mojej codziennej pracy i nauce skupiam się na nowoczesnych technologiach, kt�
 
 ---
 
-## 📊 STATYSTYKI Z POLA WALKI 💻
-
-<img src="https://github-readme-stats.vercel.app/api?username=luxus-0&show_icons=true&theme=dark&t=20251209" alt="GitHub Stats">
-
----
-
 ## 🚀 WIZYTÓWKA PROJEKTOWA: University Backend System
 
 Moim flagowym projektem jest system do zarządzania uniwersytetem, który demonstruje kompleksowe podejście do budowania skalowalnych aplikacji back-endowych.
