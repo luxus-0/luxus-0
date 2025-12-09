@@ -70,7 +70,7 @@ Jestem otwarty na nowe wyzwania, współpracę i dyskusje na temat technologii. 
     <img src="https://img.icons8.com/color/50/000000/gmail.png" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/lukaszn" target="_blank"> 
-    <img src="https://www.linkedin.com/in/%C5%82ukasz-nowog%C3%B3rski-b7033a259/" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/%C5%82ukasz-nowog%C3%B3rski-b7033a259/" alt="LinkedIn" alt="Linkedin">
   </a>
 </p>
 
